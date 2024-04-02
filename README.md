@@ -9,7 +9,7 @@
 </p>
 
 <p align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=EB5E28&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there++%F0%9F%91%8B;I+am+Shikhar+Gupta" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=EB5E28&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there++%F0%9F%91%8B;I+am+Shyamal+Mishra" alt="Typing SVG" />
 </p>
 
 
