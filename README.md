@@ -4,9 +4,7 @@
 
 
 
-<p align=center>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Work"/>
-</p>
+
 
 <p align=center>
 <img src="https://readme-typing-svg.herokuapp.com?&lines=Hi+there++%F0%9F%91%8B;I+am+Shyamal+Mishra" alt="Typing SVG" />
