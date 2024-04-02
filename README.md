@@ -20,8 +20,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I am currently pursuing a Master's in Computer Science at ASU.
-- :zap: I bring over 3 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
+- :telescope: I am currently pursuing a Master's in Computer Science at Drexel.
+- :zap: I bring over 3.5 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
 - :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 
 ---
@@ -70,12 +70,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 &nbsp;
 </div>
 
----
-### :fire: Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Shikhar97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikhar97&show_icons=true&theme=tokyonight)
 
