@@ -1,23 +1,6 @@
-<div>
-  <img alt="Logo" src="https://github.com/Shikhar97/Shikhar97.github.io/blob/v2/public/images/logo.png" width="100" />
-</div>
 
-<br/>
 
-<div id="badges">
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShikhar97"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShikhar97&countColor=%2319a053" /></a>
-	<a href="https://www.linkedin.com/in/shikharg97/" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:sgupt330@asu.edu">
-		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-	</a>
-<a href="https://shikhar97.github.io/" target="_blank">
-	<img height="100%" alt="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-</div>
 
-<hr/>
 
 
 
