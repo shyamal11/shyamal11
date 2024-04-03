@@ -21,6 +21,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: I bring over 3.5 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
 - :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 
+
+- 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
+- ⚡️ Fun fact: I love playing squash!
+- 📧 Work Email: **sm4825 (at) drexel (dot) edu**.
+- ☕ Coffee Chat: **https://www.buymeacoffee.com/shyamal116**
+
 ---
 
 ### :hammer_and_wrench: Tech Stack :
