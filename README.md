@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 - 🤩 Specializing in **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Systems Engineering**.
-- ⚡️ Fun fact: I love playing squash!
+- ⚡️ Fun fact: I love playing cricket!
 - 📧 Work Email: **sm4825 (at) drexel (dot) edu**.
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/shyamal116**
 
