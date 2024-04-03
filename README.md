@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 
 
-- 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
+- 🤩 Specializing in **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Systems Engineering**.
 - ⚡️ Fun fact: I love playing squash!
 - 📧 Work Email: **sm4825 (at) drexel (dot) edu**.
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/shyamal116**
