@@ -27,7 +27,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shyamal11)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamal11&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamal11&show_icons=true&count_private=true)
+
 
 
 ---
