@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🤩 Specializing in **Back End Development**, **Software Engineering** , **Data Science**, and **Cloud Computing**
 -  :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 - ⚡️ Fun fact: I love playing cricket!
-- 📧 Work Email: **shyamal.mishra@drexel.edu**.
+- 📧 Work Email: **shyamal.mishra@drexel.edu**
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/shyamal116**
 
 ---
