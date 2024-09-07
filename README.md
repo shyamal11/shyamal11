@@ -28,7 +28,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Profile Views](https://komarev.com/ghpvc/?username=shyamal11)
 
 
-[![Upload Podcast](https://github.com/shyamal11/PodcastCreatorUploader/actions/workflows/podcast.yml/badge.svg)](https://github.com/shyamal11/PodcastCreatorUploader/actions/workflows/podcast.yml)
 ---
 
 ### :hammer_and_wrench: Tech Stack :
