@@ -17,12 +17,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I am currently pursuing a Master's in Computer Science at Drexel.
-
-- :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
-
-
 - 🤩 Specializing in **Back End Development**, **Software Engineering** , **Data Science**, and **Cloud Computing**
+-  :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 - ⚡️ Fun fact: I love playing cricket!
 - 📧 Work Email: **sm4825 (at) drexel (dot) edu**.
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/shyamal116**
