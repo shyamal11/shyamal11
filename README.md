@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🤩 Specializing in **full stack Development**, **Data Engineering** , **Data Science**, and **Cloud Computing**
+- 🤩 Specializing in **Full Stack Development**, **Data Engineering** , **Data Science**, and **Cloud Computing**
 -  :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 - ⚡️ Fun fact: I love playing cricket!
 - 📧 Work Email: **shyamal.mishra@drexel.edu**
